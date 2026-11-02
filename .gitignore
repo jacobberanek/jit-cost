@@ -3,6 +3,8 @@ data/*.csv
 .venv/
 .ipynb_checkpoints/
 .idea/
+results/preds
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
